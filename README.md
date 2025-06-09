@@ -1,6 +1,6 @@
 # 🌍 EcoSphereAI
 
-EcoSphereAI is a Streamlit-based application leveraging the power of Gemini and traditional machine learning models to provide actionable insights for optimizing network infrastructure, resource allocation, and sustainability efforts.  It offers a suite of AI-powered tools designed to address various aspects of network management, from energy optimization to disaster preparedness and predictive maintenance.
+EcoSphereAI is a Streamlit-based application leveraging the power of LLM and traditional machine learning models to provide actionable insights for optimizing network infrastructure, resource allocation, and sustainability efforts.  It offers a suite of AI-powered tools designed to address various aspects of network management, from energy optimization to disaster preparedness and predictive maintenance.
 
 ## 🌟 Features
 
